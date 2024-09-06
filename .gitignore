@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+.idea/*
+Lib/*
+Scripts/*
+*.cfg
+*.exe
+*.bat
+activate
